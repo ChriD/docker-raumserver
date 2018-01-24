@@ -3,7 +3,7 @@
     "node": ">=7.6.0"
   },
   "name": "docker-raumserver",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Docker image which hosts node-raumserver to control the Raumfeld multiroom system via requests",
   "main": "docker.raumserver.js",
   "scripts": {
