@@ -1,0 +1,29 @@
+{
+  "engines": {
+    "node": ">=7.6.0"
+  },
+  "name": "docker-raumserver",
+  "version": "0.0.1",
+  "description": "Docker image which hosts node-raumserver to control the Raumfeld multiroom system via requests",
+  "main": "docker.raumserver.js",
+  "scripts": {
+    "start": "node docker.raumserver.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChriD/docker-raumkernel.git"
+  },
+  "keywords": [
+    "raumserver",    
+    "raumfeld"
+  ],
+  "dependencies": {
+    "config": "^1.25.1",
+    "node-raumserver": "^0.1.2"
+  },
+  "author": "Christian Dürnberger",
+  "bugs": {
+    "url": "https://github.com/ChriD/node-raumserver/issues"
+  },
+  "homepage": "https://github.com/ChriD/node-raumserver#readme"
+}
