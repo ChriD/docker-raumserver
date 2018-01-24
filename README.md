@@ -16,6 +16,8 @@ You have to use `net=--host` for the container, otherwise the raumserver will no
 Docker raumserver will reside on **port 8585**  
 
 
+Additional Info
+-------------
 Currently it works well on a QNAP NAS but not on any Windows Docker installation  
-Use net=--host !!!
+***Use 'net=--host' !!!***
 
