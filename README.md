@@ -1,7 +1,6 @@
 Welcome to docker-raumserver
 ===================
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/ChriD/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/chris/docker-raumserver.svg)](https://registry.hub.docker.com/u/chrid/docker-raumserver/)
 
 [![dockeri.co](http://dockeri.co/image/chrid/docker-raumserver)](https://hub.docker.com/r/chrid/docker-raumserver/)
 
